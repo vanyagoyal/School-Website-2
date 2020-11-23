@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+}
+
+#main {
+    background-color: aquamarine;
+}
+
+.achievement_head i {
+    float: right;
+    margin-right:10px; 
+}
+.achievement_head {
+    margin:8px auto;
+    border-radius:2px;
+    width: 500px;
+    color: yellow;
+}
+#campus-life img{
+    width: 1000px;
+}
+#school {
+    border-style: solid;
+    border-color: blueviolet;
+    border-width: 5px;
+    border-radius: 20px;
+    background-color: blue;
+}
+
+marquee {
+    background-color: cadetblue;
+    font-family: 'Lobster Two', cursive;
+    color: azure;
+    font-size: 25px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.link {
+    float: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    display: inline;
+    font-family: 'Dancing Script', cursive;
+    color: lavenderblush;
+}
+
+.link:hover {
+    background-color: palevioletred;
+    color: crimson;
+    cursor: pointer;
+    transform: scale(1.2)
+}
+
+.head {
+    font-family: 'Bitter', serif;
+    text-decoration-color: mediumturquoise;
+    text-decoration: overline;
+}
+
+.achievements-img {
+    height: 200px;
+}
